@@ -1,10 +1,11 @@
 # File-Organiser-for-Windows
 > Organise your file types
 
-This python file allows you to select a folder in which you want to organise different file formats.
-It creates different folders into which it places the file types.
->A brief description of your project, what it is used for and how does life get
->awesome when someone starts to use it.
+>This python file allows you to select a folder in which you want to organise different file formats.
+>It creates different folders into which it places your different files based on file types.
+>For example you pdf files will be places in the PDF folder, Zip files in the Zip folder, etc.
+```>A brief description of your project, what it is used for and how does life get
+```>awesome when someone starts to use it.
 
 ## Installing / Getting started
 
