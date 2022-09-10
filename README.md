@@ -1,5 +1,5 @@
 # File-Organiser-for-Windows
-> Additional information or tagline
+> Organise your file types
 
 This python file allows you to select a folder in which you want to organise different file formats.
 It creates different folders into which it places the file types.
