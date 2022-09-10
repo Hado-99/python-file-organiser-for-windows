@@ -1,8 +1,10 @@
-# file-organiser-windows
+# File-Organiser-for-Windows
 > Additional information or tagline
 
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
+This python file allows you to select a folder in which you want to organise different file formats.
+It creates different folders into which it places the file types.
+>A brief description of your project, what it is used for and how does life get
+>awesome when someone starts to use it.
 
 ## Installing / Getting started
 
