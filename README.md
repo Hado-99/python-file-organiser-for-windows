@@ -1,5 +1,5 @@
 # File-Organiser-for-Windows
-> Organise your file types
+> Organise your file based on file types
 
 >This python file allows you to select a folder in which you want to organise different file formats.
 >It creates different folders into which it places your different files based on file types.
