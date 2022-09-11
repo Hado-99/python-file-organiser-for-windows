@@ -9,8 +9,6 @@
 ## Installing / Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-```A quick introduction of the minimal setup you need to get a hello world up &
-```running.
 
 Python 3 Installed on Windows.
 Python Libraries:
@@ -21,11 +19,18 @@ splitext
 tkinter
 time
 
+When running the script via the terminal you can use the following command (change the FOLDER PATH to where your file is):
+python -u "[FOLDER PATH]\File_organiser.py"
 ```shell
 packagemanager install awesome-project
 awesome-project start
 awesome-project "Do something!"  # prints "Nah."
 ```
+
+A window will popup where you can select the folder that you want to run the file organiser on.
+Select the folder and click the "Select Folder" button.
+The program will then create the necessary folders i.e. Excel, PDF, Images, Software, Video, Word_Other, Zip within the selected directory.
+If a folder does not exist you will receive a prompt on whether you want the folder created. NOTE: If you select that you do not want to create the folder then the program will break out of the code.
 
 Here you should say what actually happens when you execute the code above.
 
