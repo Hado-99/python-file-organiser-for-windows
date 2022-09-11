@@ -5,12 +5,13 @@
 >It creates different folders into which it places your different files based on file types.
 >For example you pdf files will be places in the PDF folder, Zip files in the Zip folder, etc.
 ```>A brief description of your project, what it is used for and how does life get
-```>awesome when someone starts to use it
+
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+```A quick introduction of the minimal setup you need to get a hello world up &
+```running.
 
 ```shell
 packagemanager install awesome-project
