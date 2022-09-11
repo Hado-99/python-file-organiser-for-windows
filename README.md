@@ -20,12 +20,8 @@ tkinter
 time
 
 When running the script via the terminal you can use the following command (change the FOLDER PATH to where your file is):
+
 python -u "[FOLDER PATH]\File_organiser.py"
-```shell
-packagemanager install awesome-project
-awesome-project start
-awesome-project "Do something!"  # prints "Nah."
-```
 
 A window will popup where you can select the folder that you want to run the file organiser on.
 Select the folder and click the "Select Folder" button.
