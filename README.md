@@ -4,7 +4,6 @@
 >This python file allows you to select a folder in which you want to organise different file formats.
 >It creates different folders into which it places your different files based on file types.
 >For example you pdf files will be places in the PDF folder, Zip files in the Zip folder, etc.
-```>A brief description of your project, what it is used for and how does life get
 
 
 ## Installing / Getting started
@@ -12,6 +11,15 @@
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ```A quick introduction of the minimal setup you need to get a hello world up &
 ```running.
+
+Python 3 Installed on Windows.
+Python Libraries:
+exists
+setuptools
+shutil
+splitext
+tkinter
+time
 
 ```shell
 packagemanager install awesome-project
