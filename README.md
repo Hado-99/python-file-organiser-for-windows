@@ -24,8 +24,11 @@ When running the script via the terminal you can use the following command (chan
 python -u "[FOLDER PATH]\File_organiser.py"
 
 A window will popup where you can select the folder that you want to run the file organiser on.
+
 Select the folder and click the "Select Folder" button.
+
 The program will then create the necessary folders i.e. Excel, PDF, Images, Software, Video, Word_Other, Zip within the selected directory.
+
 If a folder does not exist you will receive a prompt on whether you want the folder created. NOTE: If you select that you do not want to create the folder then the program will break out of the code.
 
 Here you should say what actually happens when you execute the code above.
