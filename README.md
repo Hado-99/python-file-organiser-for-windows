@@ -1,5 +1,5 @@
 # File-Organiser-for-Windows
-> Organise your file based on file types
+> Organise your files based on file types
 
 >This python file allows you to select a folder in which you want to organise different file formats.
 >It creates different folders into which it places your different files based on file types.
@@ -53,7 +53,8 @@ If you'd like to contribute, please fork the repository and use a feature
 branch. Pull requests are warmly welcome.
 
 You are welcome to contribute to this code. 
-Somethings I would consider adding functionality for:
+
+Some things I would consider adding functionality for:
 - making this compatible with Mac and Linux;
 - ability to listen to a folder and when files are added then those files get moved to the applicable file type folder
 When you publish something open source, one of the greatest motivations is that
