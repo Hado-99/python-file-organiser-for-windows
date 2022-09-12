@@ -1,8 +1,8 @@
 # File-Organiser-for-Windows
 > Organise your files based on file types
 
->This python file allows you to select a folder in which you want to organise different file formats.
->It creates different folders into which it places your different files based on file types.
+>This python file allows you to select a folder in which you want to organise different file formats. <br />
+>It creates different folders into which it places your different files based on file types. <br />
 >For example you pdf files will be places in the PDF folder, Zip files in the Zip folder, etc.
 
 
@@ -13,12 +13,12 @@ These instructions will get you a copy of the project up and running on your loc
 ### Pre-requisites
 Python 3 Installed on Windows <br />
 Python Libraries:<br />
-exists
-setuptools
-shutil
-splitext
-tkinter
-time
+exists <br />
+setuptools <br />
+shutil <br />
+splitext <br />
+tkinter<br />
+time<br />
 
 When running the script via the terminal you can use the following command (change the FOLDER PATH to where your file is):
 
