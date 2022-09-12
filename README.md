@@ -13,12 +13,12 @@ These instructions will get you a copy of the project up and running on your loc
 ### Pre-requisites
 &ensp;Python 3 installed on Windows <br />
 &ensp;Python Libraries:<br />
-exists <br />
-setuptools <br />
-shutil <br />
-splitext <br />
-tkinter<br />
-time<br />
+&ensp;exists <br />
+&ensp;setuptools <br />
+&ensp;shutil <br />
+&ensp;splitext <br />
+&ensp;tkinter<br />
+&ensp;time<br />
 
 When running the script via the terminal you can use the following command (change the FOLDER PATH to where your file is):
 
